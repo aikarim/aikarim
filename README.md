@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Abul Irfan Karim
+# Hi, I'm Abul Irfan Karim 💫
 **A passionate Computer Science Engineer from India**
 
-Email Me 👉 ✉️ **abulirfankarim@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **abulirfankarim@gmail.com** For Collaboration/Project or Anything Else. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfxn.exe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abulirfankarim@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-irfan-karim-095a73315/) 
